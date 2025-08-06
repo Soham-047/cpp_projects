@@ -1,0 +1,12 @@
+0,,1895829727,5.61657e-222
+2,footbal helmet,10,35.5
+3,basktball,20,19.99
+4,soccer ball,30,22
+5,baseboll bat,12,45.75
+6,golf clibs,5,55
+7,skis,54,22
+8,ski poless,7,60
+9,gogles,25,12.5
+10,volebyll net,3,150
+11,cycelist helmet,9,40
+12,wrestlling mat,2,200
